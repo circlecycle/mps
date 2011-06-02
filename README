@@ -1,0 +1,10 @@
+By James Robey, circlecycle@gmail.com
+https://github.com/circlecycle/mps
+
+Mod Python Servelets are an easy and stripped down web-hosting framework for REST application that is akin to django (and even uses django templates, and so requires django.
+
+Features also include basic authetication framework,
+a users/groups framework
+a hierarchial storage system that maps an n-deep python dictionary onto an n-deep file/dir structure
+
+INSTALL instructions TBD here.
